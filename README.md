@@ -1,0 +1,2 @@
+# Python-While-Loop-Example
+This program reads values from an external file, baseball.txt, calculates the averege of the baseball averages for the team by adding all of the values and dividing by the count, and determines the number of people on the team by using the same count. The program uses a while loop to process the values that will run until it hits the "sentinel" value, -1. It also calculates the highest and lowest averages for the team by using 'if' statements. These results are printed in the program and are also sent to an external file, results.txt.
